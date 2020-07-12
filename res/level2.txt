@@ -1,0 +1,11 @@
+5 5
+WWWWW
+WFFFW
+WFTFW
+WFFFW
+WWWWW
+1 2
+Well done. It will not always be that easy. By completing a level you unlock a new control,<...>
+as you can see in the top left of your screen. Go ahead and try it out!
+CONTROL 1 1
+RIGHT 1 1

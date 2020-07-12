@@ -1,0 +1,14 @@
+7 5
+WWWWWWW
+WFFFFFW
+WFFFFTW
+WFFFFFW
+WWWWWWW
+1 2
+In the top left of you screen, next to each control is a number. That number indicates how many<...>
+uses you have left for that control. If it hits 0, you no longer have access to the corresponding<...>
+control. Luckily, you can refill the controls by pressing the ctrl key. Just keep in mind you need<...>
+one ctrl press for the portal, so do not get OUT OF CTRL!<...>
+Your new control is the R key to restart the level. It might be useful in the future.
+CONTROL 2 1
+RIGHT 1 2

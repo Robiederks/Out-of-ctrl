@@ -1,0 +1,12 @@
+9 5
+WWWWWWWWW
+WFFFFFFFW
+WFFFFTFFW
+WFFFFFFFW
+WWWWWWWWW
+1 2
+By the way, controls have a tendency to get... out of control.<...>
+I think you know enough for now. Have fun!
+CONTROL 2 1
+LEFT 1 1
+RIGHT 1 3

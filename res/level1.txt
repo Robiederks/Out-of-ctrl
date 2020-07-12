@@ -1,0 +1,11 @@
+5 5
+WWWWW
+WFFFW
+WFTFW
+WFFFW
+WWWWW
+2 2
+Welcome to Out of ctrl. Let me introduce you to the game.<...>
+The goal of each level is to reach the blue portal and then press the crtl key.<...>
+Since you are already on the portal, try pressing the ctrl key.
+CONTROL 1 1
